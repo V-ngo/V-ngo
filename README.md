@@ -23,7 +23,7 @@
 <!----------------------------------->
 
 <h3 align="center">
-  <img width="30" height="30" src="https://user-images.githubusercontent.com/72105812/174191491-534ef67e-2fff-42b8-8148-0a14cf260c9c.png"> Vee is currently looking for new opportunities <img width="30" height="30" src="https://user-images.githubusercontent.com/72105812/174191604-bb3dd9a9-19e0-45f6-b454-14a2459f18a6.png">
+  <img width="30" height="30" src="https://user-images.githubusercontent.com/72105812/174191491-534ef67e-2fff-42b8-8148-0a14cf260c9c.png"> Vivian is currently looking for new opportunities <img width="30" height="30" src="https://user-images.githubusercontent.com/72105812/174191604-bb3dd9a9-19e0-45f6-b454-14a2459f18a6.png">
 </h3>
 
 <br>
