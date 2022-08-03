@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/72105812/174192128-730c936f-7210-4e93-9609-be105007e303.png">
-</p>
-
 <!----------------------------------->
 
 <h2 align="center">
